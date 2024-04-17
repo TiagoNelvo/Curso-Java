@@ -3,7 +3,7 @@ package academy.devdojo.maratonajava;
 /**
  * Isso é um comentário<b>javadock</b>
  */
-public class OlaDevDojo {
+public class Aula01OlaDevDojo {
     public static void main(String[] args){
         // Isso é um comentário de uma linha
         /*
