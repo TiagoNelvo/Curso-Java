@@ -15,6 +15,7 @@ public class Aulao4Operadores {
         int resto = 21 % 7;
         System.out.println(resto);
 
+        // Operadores relacionais
         // < > <= >= == !=
 
         boolean isDezMaiorQueVinte = 10 > 20;
@@ -26,6 +27,16 @@ public class Aulao4Operadores {
         System.out.println("isDezMaiorQueVinte "+isDezMenorQueVinte);
         System.out.println("isDezMaiorQueVinte "+isDezIgualVinte);
         System.out.println("isDezDiferenteDez "+isDezDiferenteDez);
+
+        //Operadores Lógicos
+        // && (And) || (or)  !
+
+        int idade = 29;
+        float salario = 3500F;
+        boolean isDentroDaLeiMaiorQueTrinta = idade >=30 && salario >= 4612;
+        boolean isDentroDaLeiMenorQueTrinta = idade < 30 && salario >= 3381;
+        System.out.println("isDentroDaLeiMaiorQueTrinta "+isDentroDaLeiMaiorQueTrinta);
+        System.out.println("isDentroDaLeiMenorQueTrinta "+isDentroDaLeiMenorQueTrinta);
 
     }
 }
