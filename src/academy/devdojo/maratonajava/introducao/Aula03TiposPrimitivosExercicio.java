@@ -14,8 +14,8 @@ public class Aula03TiposPrimitivosExercicio {
           String dataRecebimentoSalario = "20/12/21";
           String relatorio = "Eu "+nome+", morando no endereço "+endereco+", confirmo que recebi o salário de "+dataRecebimentoSalario+" na data ";
 
-          System.out.println("Eu " + nome + ", morando no endereço " + endereco + ", confirmo que recebi o salário de " + dataRecebimentoSalario + " na data ");
-          //System.out.println(relatorio);
+          //System.out.println("Eu " + nome + ", morando no endereço " + endereco + ", confirmo que recebi o salário de " + dataRecebimentoSalario + " na data ");
+          System.out.println(relatorio);
 
 
 
