@@ -50,7 +50,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Aulao4Operadores">
+  <component name="RunManager" selected="Application.Aula04Operadores">
     <configuration name="Aula02TiposPrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.Aula02TiposPrimitivos" />
       <module name="Curso-Java" />
@@ -77,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aulao4Operadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aulao4Operadores" />
+    <configuration name="Aula04Operadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula04Operadores" />
       <module name="Curso-Java" />
       <extension name="coverage">
         <pattern>
@@ -92,7 +92,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Aulao4Operadores" />
+        <item itemvalue="Application.Aula04Operadores" />
         <item itemvalue="Application.Aula03TiposPrimitivosExercicio" />
         <item itemvalue="Application.Aula02TiposPrimitivos" />
       </list>

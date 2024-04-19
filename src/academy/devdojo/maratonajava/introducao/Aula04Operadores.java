@@ -1,8 +1,6 @@
 package academy.devdojo.maratonajava.introducao;
 
-import com.sun.jdi.PathSearchingVirtualMachine;
-
-public class Aulao4Operadores {
+public class Aula04Operadores {
     public static void main(String[] args) {
         // + - * /
         int num01 = 10;
