@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5096ee72-0f69-4376-bd62-22d6640e4ae5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +44,7 @@
     "Application.Aula05EstruturasCondicionais02.executor": "Run",
     "Application.Aula05EstruturasCondicionais03.executor": "Run",
     "Application.Aula05EstruturasCondicionais04.executor": "Run",
+    "Application.Aula05EstruturasCondicionais05.executor": "Run",
     "Application.Aulao4Operadores.executor": "Run",
     "Application.OlaDevDojo.executor": "Run",
     "Application.calc01.executor": "Run",
@@ -56,7 +58,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Aula05EstruturasCondicionais04">
+  <component name="RunManager" selected="Application.Aula05EstruturasCondicionais05">
     <configuration name="Aula05EstruturasCondicionais01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula05EstruturasCondicionais01" />
       <module name="Curso-Java" />
@@ -109,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="calc01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.calc01" />
+    <configuration name="Aula05EstruturasCondicionais05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula05EstruturasCondicionais05" />
       <module name="Curso-Java" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula05EstruturasCondicionais05" />
         <item itemvalue="Application.Aula05EstruturasCondicionais04" />
         <item itemvalue="Application.Aula05EstruturasCondicionais03" />
         <item itemvalue="Application.Aula05EstruturasCondicionais02" />
         <item itemvalue="Application.Aula05EstruturasCondicionais01" />
-        <item itemvalue="Application.calc01" />
       </list>
     </recent_temporary>
   </component>
