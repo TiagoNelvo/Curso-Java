@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5096ee72-0f69-4376-bd62-22d6640e4ae5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula06EstruturasDeRepeticao01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula06EstruturasDeRepeticao01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula06EstruturasDeRepeticao01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +46,7 @@
     "Application.Aula05EstruturasCondicionais04.executor": "Run",
     "Application.Aula05EstruturasCondicionais05.executor": "Run",
     "Application.Aula05EstruturasCondicionais06.executor": "Run",
+    "Application.Aula06EstruturasDeRepeticao01.executor": "Run",
     "Application.Aulao4Operadores.executor": "Run",
     "Application.OlaDevDojo.executor": "Run",
     "Application.calc01.executor": "Run",
